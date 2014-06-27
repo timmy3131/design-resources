@@ -17,3 +17,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.blugraphic.com/
 1. https://pixelsdaily.com/
 1. http://purtypixels.com/
+1. http://www.cssauthor.com/freebies/
