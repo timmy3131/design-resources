@@ -15,3 +15,4 @@ The comprehensive bookmark of sites for design resources.
 1. https://dribbble.com/search?q=freebie&s=latest
 1. http://www.blazrobar.com/
 1. http://www.blugraphic.com/
+1. https://pixelsdaily.com/
