@@ -1,4 +1,4 @@
-Design Resources
+Graphic Design Resources
 ================
 The comprehensive bookmark of sites for design resources.
 
