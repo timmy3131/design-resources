@@ -18,3 +18,4 @@ The comprehensive bookmark of sites for design resources.
 1. https://pixelsdaily.com/
 1. http://purtypixels.com/
 1. http://www.cssauthor.com/freebies/
+1. http://www.smashingmagazine.com/category/graphics/
