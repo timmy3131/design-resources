@@ -53,3 +53,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.logologo.com/index.php
 1. http://psdfreemium.com/
 1. http://psddd.co/
+1. http://pixelb.in/
