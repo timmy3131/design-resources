@@ -69,3 +69,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://designfreebies.com/
 1. http://flypixel.com/
 1. http://dbfreebies.co/
+1. http://webdesignfreebies.net/
