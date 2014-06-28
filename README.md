@@ -29,3 +29,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.os-templates.com/
 1. http://www.blazrobar.com/
 1. http://psdreams.com/
+1. http://psdblast.com/
