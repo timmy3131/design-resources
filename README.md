@@ -61,3 +61,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.freepsdfile.com/
 1. http://graphicdesignjunction.com/
 1. http://www.24psd.com/
+1. http://lazydrawing.com/
