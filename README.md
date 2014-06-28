@@ -21,3 +21,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.smashingmagazine.com/category/graphics/
 1. http://365psd.com/
 1. http://freepsdfiles.net/
+1. http://www.freepik.com/free-psd
