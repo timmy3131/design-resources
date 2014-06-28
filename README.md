@@ -54,3 +54,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://psdfreemium.com/
 1. http://psddd.co/
 1. http://pixelb.in/
+1. http://www.freebiesgallery.com/psd/
