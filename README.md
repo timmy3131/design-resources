@@ -73,3 +73,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://freebiesbooth.com/
 1. http://www.freebiesgallery.com/
 1. http://www.webdesign-inspiration.com/web-design-freebies
+1. http://flatdsgn.com/
