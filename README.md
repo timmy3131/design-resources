@@ -79,3 +79,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.vecteezy.com/
 1. http://freebbble.com/
 1. http://designreviver.com/category/freebies/
+1. http://speckyboy.com/category/monthly-freebies/
