@@ -36,3 +36,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://duckfiles.com/
 1. http://www.psdking.eu/
 1. http://freepsddownload.com/
+1. http://elemisfreebies.com/
