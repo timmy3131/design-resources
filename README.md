@@ -24,3 +24,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.freepik.com/free-psd
 1. http://freepsd.com/
 1. http://www.brusheezy.com/psds
+1. http://www.designrazzi.net/category/freebies/
