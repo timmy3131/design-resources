@@ -51,3 +51,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://forpixels.com/freebies/
 1. http://www.psdfolder.com/
 1. http://www.logologo.com/index.php
+1. http://psdfreemium.com/
