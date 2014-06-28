@@ -66,3 +66,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.1stwebdesigner.com/freebies/
 1. http://www.facegfx.com/
 1. http://www.graphicdesignsinspiration.com/category/freebies/
+1. http://designfreebies.com/
