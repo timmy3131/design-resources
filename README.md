@@ -34,3 +34,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.webdesignerdepot.com/category/freebies/
 1. http://www.psdexplorer.com/
 1. http://duckfiles.com/
+1. http://www.psdking.eu/
