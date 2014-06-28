@@ -49,3 +49,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://designmodo.com/freebies/
 1. http://psdstyle.net/
 1. http://forpixels.com/freebies/
+1. http://www.psdfolder.com/
