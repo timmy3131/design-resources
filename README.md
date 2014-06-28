@@ -42,3 +42,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://fribbble.com/
 1. http://blog.spoongraphics.co.uk/category/freebies
 1. http://designmoo.com/
+1. http://www.psdcovers.com/
