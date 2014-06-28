@@ -47,4 +47,5 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.ait-themes.com/freebies/
 1. http://theneodesign.com/category/freebies/
 1. http://designmodo.com/freebies/
-1. http://psdstyle.net/s
+1. http://psdstyle.net/
+1. http://forpixels.com/freebies/
