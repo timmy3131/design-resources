@@ -86,3 +86,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://idesignow.com/
 1. http://designrfix.com/freebies
 1. http://www.creativebeacon.com/tag/free/
+1. http://www.webdesigndev.com/freebies
