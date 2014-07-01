@@ -134,3 +134,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.colourlovers.com/
 1. http://www.colorhunter.com/
 1. http://colrd.com/
+1. http://colllor.com/
