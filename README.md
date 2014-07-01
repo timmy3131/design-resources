@@ -126,7 +126,7 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
 1. http://www.iconian.com/
 
-## Color Schemes / Palletes
+## Color Schemes / Palettes
 1. http://www.colorcombos.com/
 1. http://paletton.com
 1. https://kuler.adobe.com/
@@ -137,3 +137,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://colllor.com/
 1. http://design-seeds.com/index.php/search
 1. http://slayeroffice.com/tools/color_palette/
+1. http://tools.medialab.sciences-po.fr/iwanthue/
