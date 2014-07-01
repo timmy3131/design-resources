@@ -132,3 +132,4 @@ The comprehensive bookmark of sites for design resources.
 1. https://kuler.adobe.com/
 1. http://www.colorschemer.com/online.html
 1. http://www.colourlovers.com/
+1. http://www.colorhunter.com/
