@@ -118,3 +118,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.dafont.com/
 1. http://www.fontsquirrel.com/
 1. http://tenbytwenty.com/
+1. http://www.kevinandamanda.com/fonts/
