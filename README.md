@@ -94,3 +94,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://openfontlibrary.org/
 1. http://www.designwritingresearch.org/free_fonts.html
 1. http://moorstation.org/fontennium/fontennium.htm
+1. http://www.alvit.de/blog/article/20-best-license-free-official-fonts
