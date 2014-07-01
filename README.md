@@ -97,3 +97,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.alvit.de/blog/article/20-best-license-free-official-fonts
 1. http://fontstruct.com/
 1. https://creative.adobe.com/products/webfonts
+1. http://iginomarini.com/fell/
