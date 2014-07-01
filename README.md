@@ -123,3 +123,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://jamestedmondson.com/
 1. https://www.theleagueofmoveabletype.com/
 1. http://www.impallari.com/
+1. http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
