@@ -120,3 +120,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://tenbytwenty.com/
 1. http://www.kevinandamanda.com/fonts/
 1. http://www.google.com/fonts/
+1. http://jamestedmondson.com/
