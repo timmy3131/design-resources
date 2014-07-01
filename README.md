@@ -111,3 +111,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.typedepot.com/fonts
 1. http://www.wetecacahuete.com/
 1. http://www.josipkelava.com/
+1. http://jovanny.ru/eng-free-fonts.html
