@@ -136,3 +136,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://colrd.com/
 1. http://colllor.com/
 1. http://design-seeds.com/index.php/search
+1. http://slayeroffice.com/tools/color_palette/
