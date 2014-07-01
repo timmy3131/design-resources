@@ -131,3 +131,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://paletton.com
 1. https://kuler.adobe.com/
 1. http://www.colorschemer.com/online.html
+1. http://www.colourlovers.com/
