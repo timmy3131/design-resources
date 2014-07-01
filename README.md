@@ -113,3 +113,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.josipkelava.com/
 1. http://jovanny.ru/eng-free-fonts.html
 1. http://www.glukfonts.pl/fonts.php?l=en
+1. http://fontfabric.com/
