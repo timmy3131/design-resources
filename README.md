@@ -129,3 +129,4 @@ The comprehensive bookmark of sites for design resources.
 ## Color Schemes / Palletes
 1. http://www.colorcombos.com/
 1. http://paletton.com
+1. https://kuler.adobe.com/
