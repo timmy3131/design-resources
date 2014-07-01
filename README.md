@@ -106,3 +106,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.smashingmagazine.com/tag/free-fonts/
 1. http://theoatmeal.com/blog/free_fonts
 1. http://www.fsahin.com/types.html
+1. http://www.zozuedzech.com/
