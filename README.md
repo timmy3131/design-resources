@@ -108,3 +108,4 @@ The comprehensive bookmark of sites for design resources.
 1. http://www.fsahin.com/types.html
 1. http://www.zozuedzech.com/
 1. http://fonts.artill.de/collection/artill-weather-icons
+1. http://www.typedepot.com/fonts
